@@ -1,0 +1,31 @@
+Improving Neural Network Performance
+
+1. Overfitting
+-Dropout Layers
+-Regularization(L1 & L2)
+-Early Stopping
+
+2. Normalization
+-Normalizing inputs
+-Batch Normalization
+  
+
+3. Vanishing Gradients
+-Activation Functions
+-Weight Initialization
+
+
+4. Gradient Checking and Clipping
+
+5. Optimizers -
+-Momentum
+-Adagrad
+-RMSprop
+-Adam
+
+6. Learning rate scheduling
+
+7. Hyperparameter Tuning
+-No. of hidden layers
+-nodes/layer
+-Batch size
